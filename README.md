@@ -36,9 +36,3 @@
 ## About Page
 <img src="./frontend/src/assests/about.png" width='800' height='auto'>
 <br>
-
-
-
-# zoomy_food_delivery_app
-# zoomy_food_delivery_app
-# zoomy_food_delivery_app
